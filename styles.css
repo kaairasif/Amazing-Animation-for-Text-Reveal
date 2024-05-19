@@ -1,0 +1,10 @@
+h1 {
+  text-transform: uppercase;
+  font-size: 200px;
+  text-align: center;
+  margin: 50vh 0 0 0;
+  padding: 0;
+  line-height: 140px;
+  transform: translateY(-50%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
